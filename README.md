@@ -4,4 +4,4 @@ They are commonly used by individuals such as artists, designers, writers, and p
 
 Language Used : HTML, CSS.
 
-***Portfolio_Links*** http://ojasmaniyar.great-site.net / https://ojasmaniyar.godaddysites.com / https://ojasmaniyar-portfolio.vercel.app
+***Portfolio_Links*** https://ojasmaniyar-portfolio.vercel.app
